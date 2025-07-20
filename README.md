@@ -1,4 +1,4 @@
-# F1 Starting Lights Semaphore
+# F1 Starting Lights Semaphore 🏁
 
 A professional Formula 1 starting lights semaphore web application for slot car racing and motorsport enthusiasts. Experience the authentic F1 race start sequence with realistic light configuration, accurate timing, and audio effects.
 

@@ -14,6 +14,10 @@ A professional Formula 1 starting lights semaphore web application for slot car 
 
 ## Quick Start
 
+### Try out now!
+
+Go to https://shebuka.github.io/F1-Start-lights/ and give it a Go!!!
+
 ### Development
 ```bash
 # Install dependencies

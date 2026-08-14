@@ -247,7 +247,7 @@ const App: React.FC = () => {
     return { label: 'Keep practicing', color: 'text-orange-400', bg: 'bg-orange-500/20', border: 'border-orange-500/40' };
   };
 
-  const canTap = reactionTimeMode && sequenceType === 'race' && (isSequenceActive || waitingForTap);
+  const canTap = reactionTimeMode && sequenceType !== 'formation' && (isSequenceActive || waitingForTap);
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-red-900 to-black flex flex-col items-center p-4 pt-8">
